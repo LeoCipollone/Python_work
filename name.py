@@ -1,6 +1,6 @@
 name = "ada lovelace"
-print(name.title())
+print(name.title()) #Mayus primera letra de cada palabra
 
 name = "Ada Lovelace"
-print(name.upper())
-print(name.lower())
+print(name.upper()) #Todo mayúscula
+print(name.lower()) #Todo minúscula
